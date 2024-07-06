@@ -6,6 +6,9 @@ public class Prog1 {
 
 		System.out.println("Hello World");
 		System.out.println("Updated 1st time");
+		System.out.println("Updated 2nd time");
+		System.out.println("Updated 3rd time");
+		System.out.println("Updated 4th time");
 	}
 
 }
