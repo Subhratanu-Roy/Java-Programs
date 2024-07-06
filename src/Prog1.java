@@ -5,7 +5,7 @@ public class Prog1 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World");
-		
+		System.out.println("Updated 1st time");
 	}
 
 }
