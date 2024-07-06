@@ -12,6 +12,9 @@ public class Prog1 {
 		
 		System.out.println("1st Change done in develop branch");
 		System.out.println("2nd change done in develop branch");
+		System.out.println("3rd change done in develop branch");
+		System.out.println("4th change done in develop branch");
+		System.out.println("5th change done in develop branch");
 	}
 
 }
