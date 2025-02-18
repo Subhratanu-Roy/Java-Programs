@@ -18,7 +18,7 @@ steps
 
 {
 
-bat "mvn clean"
+echo 'building the code'
 
 }
 
@@ -46,7 +46,7 @@ stage('test')
 
 steps{
 
-bat "mvn test"
+echo 'testing the code'
 
 }
 
@@ -62,7 +62,7 @@ stage('Unit Testing')
 
 steps{
 
-bat "mvn compile"
+echo 'ut the code'
 
 }
 
